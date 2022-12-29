@@ -1,0 +1,4 @@
+main: com.vertmix.shout.ShoutPlugin
+version: 1.0
+name: Shout
+depend: [helper, helper-redis]
